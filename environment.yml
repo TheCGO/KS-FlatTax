@@ -1,0 +1,13 @@
+name: ks-flattax-dev
+channels:
+- conda-forge
+dependencies:
+- python=3.9
+- ipython
+- jupyter
+- numpy
+- pandas>=1.4.4
+- openpyxl
+- bokeh
+- matplotlib
+- pip
