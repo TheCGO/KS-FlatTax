@@ -6,8 +6,11 @@ dependencies:
 - ipython
 - jupyter
 - numpy
-- pandas>=1.4.4
+- pandas
 - openpyxl
-- bokeh
+- bokeh >= 3.1.1
 - matplotlib
+- black
 - pip
+- pip:
+  - geopandas
