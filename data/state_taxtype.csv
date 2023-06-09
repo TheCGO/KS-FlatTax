@@ -1,52 +1,52 @@
-State,Abbrev,TaxType,TaxType_str
-Alabama,AL,2,Nearly flat state income tax rates
-Alaska,AK,0,No state labor income tax
-Arizona,AZ,1,Flat state income tax rate
-Arkansas,AR,3,Progressive state income tax rates
-California,CA,3,Progressive state income tax rates
-Colorado,CO,1,Flat state income tax rate
-Connecticut,CT,3,Progressive state income tax rates
-Delaware,DE,3,Progressive state income tax rates
-District of Columbia,DC,3,Progressive state income tax rates
-Florida,FL,0,No state labor income tax
-Georgia,GA,2,Nearly flat state income tax rates
-Hawaii,HI,3,Progressive state income tax rates
-Idaho,ID,1,Flat state income tax rate
-Illinois,IL,1,Flat state income tax rate
-Indiana,IN,1,Flat state income tax rate
-Iowa,IA,2,Nearly flat state income tax rates
-Kansas,KS,3,Progressive state income tax rates
-Kentucky,KY,1,Flat state income tax rate
-Louisiana,LA,3,Progressive state income tax rates
-Maine,ME,3,Progressive state income tax rates
-Maryland,MD,3,Progressive state income tax rates
-Massachusetts,MA,1,Flat state income tax rate
-Michigan,MI,1,Flat state income tax rate
-Minnesota,MN,3,Progressive state income tax rates
-Mississippi,MS,1,Flat state income tax rate
-Missouri,MO,2,Nearly flat state income tax rates
-Montana,MT,3,Progressive state income tax rates
-Nebraska,NE,3,Progressive state income tax rates
-Nevada,NV,0,No state labor income tax
-New Hampshire,NH,0,No state labor income tax
-New Jersey,NJ,3,Progressive state income tax rates
-New Mexico,NM,3,Progressive state income tax rates
-New York,NY,3,Progressive state income tax rates
-North Carolina,NC,1,Flat state income tax rate
-North Dakota,ND,3,Progressive state income tax rates
-Ohio,OH,3,Progressive state income tax rates
-Oklahoma,OK,2,Nearly flat state income tax rates
-Oregon,OR,3,Progressive state income tax rates
-Pennsylvania,PA,1,Flat state income tax rate
-Rhode Island,RI,3,Progressive state income tax rates
-South Carolina,SC,3,Progressive state income tax rates
-South Dakota,SD,0,No state labor income tax
-Tennessee,TN,0,No state labor income tax
-Texas,TX,0,No state labor income tax
-Utah,UT,1,Flat state income tax rate
-Virginia,VA,3,Progressive state income tax rates
-Vermont,VT,3,Progressive state income tax rates
-Washington,WA,0,No state labor income tax
-West Virginia,WV,3,Progressive state income tax rates
-Wisconsin,WI,3,Progressive state income tax rates
-Wyoming,WY,0,No state labor income tax
+State,Abbrev,TaxType,TaxType_str,TaxType_str_short,fill_color
+Alabama,AL,2,Nearly flat state income tax rates,Nearly flat income tax rates,purple
+Alaska,AK,0,No state labor income tax,No income tax,white
+Arizona,AZ,1,Flat state income tax rate,Flat income tax rate,red
+Arkansas,AR,3,Progressive state income tax rates,Progressive income tax rates,blue
+California,CA,3,Progressive state income tax rates,Progressive income tax rates,blue
+Colorado,CO,1,Flat state income tax rate,Flat income tax rate,red
+Connecticut,CT,3,Progressive state income tax rates,Progressive income tax rates,blue
+Delaware,DE,3,Progressive state income tax rates,Progressive income tax rates,blue
+District of Columbia,DC,3,Progressive state income tax rates,Progressive income tax rates,blue
+Florida,FL,0,No state labor income tax,No income tax,white
+Georgia,GA,2,Nearly flat state income tax rates,Nearly flat income tax rates,purple
+Hawaii,HI,3,Progressive state income tax rates,Progressive income tax rates,blue
+Idaho,ID,1,Flat state income tax rate,Flat income tax rate,red
+Illinois,IL,1,Flat state income tax rate,Flat income tax rate,red
+Indiana,IN,1,Flat state income tax rate,Flat income tax rate,red
+Iowa,IA,2,Nearly flat state income tax rates,Nearly flat income tax rates,purple
+Kansas,KS,3,Progressive state income tax rates,Progressive income tax rates,blue
+Kentucky,KY,1,Flat state income tax rate,Flat income tax rate,red
+Louisiana,LA,3,Progressive state income tax rates,Progressive income tax rates,blue
+Maine,ME,3,Progressive state income tax rates,Progressive income tax rates,blue
+Maryland,MD,3,Progressive state income tax rates,Progressive income tax rates,blue
+Massachusetts,MA,1,Flat state income tax rate,Flat income tax rate,red
+Michigan,MI,1,Flat state income tax rate,Flat income tax rate,red
+Minnesota,MN,3,Progressive state income tax rates,Progressive income tax rates,blue
+Mississippi,MS,1,Flat state income tax rate,Flat income tax rate,red
+Missouri,MO,2,Nearly flat state income tax rates,Nearly flat income tax rates,purple
+Montana,MT,3,Progressive state income tax rates,Progressive income tax rates,blue
+Nebraska,NE,3,Progressive state income tax rates,Progressive income tax rates,blue
+Nevada,NV,0,No state labor income tax,No income tax,white
+New Hampshire,NH,0,No state labor income tax,No income tax,white
+New Jersey,NJ,3,Progressive state income tax rates,Progressive income tax rates,blue
+New Mexico,NM,3,Progressive state income tax rates,Progressive income tax rates,blue
+New York,NY,3,Progressive state income tax rates,Progressive income tax rates,blue
+North Carolina,NC,1,Flat state income tax rate,Flat income tax rate,red
+North Dakota,ND,3,Progressive state income tax rates,Progressive income tax rates,blue
+Ohio,OH,3,Progressive state income tax rates,Progressive income tax rates,blue
+Oklahoma,OK,2,Nearly flat state income tax rates,Nearly flat income tax rates,purple
+Oregon,OR,3,Progressive state income tax rates,Progressive income tax rates,blue
+Pennsylvania,PA,1,Flat state income tax rate,Flat income tax rate,red
+Rhode Island,RI,3,Progressive state income tax rates,Progressive income tax rates,blue
+South Carolina,SC,3,Progressive state income tax rates,Progressive income tax rates,blue
+South Dakota,SD,0,No state labor income tax,No income tax,white
+Tennessee,TN,0,No state labor income tax,No income tax,white
+Texas,TX,0,No state labor income tax,No income tax,white
+Utah,UT,1,Flat state income tax rate,Flat income tax rate,red
+Vermont,VT,3,Progressive state income tax rates,Progressive income tax rates,blue
+Virginia,VA,3,Progressive state income tax rates,Progressive income tax rates,blue
+Washington,WA,0,No state labor income tax,No income tax,white
+West Virginia,WV,3,Progressive state income tax rates,Progressive income tax rates,blue
+Wisconsin,WI,3,Progressive state income tax rates,Progressive income tax rates,blue
+Wyoming,WY,0,No state labor income tax,No income tax,white
