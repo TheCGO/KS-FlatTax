@@ -1,4 +1,4 @@
-# Data and code for "What are the Effects of Utah Income Tax Rate Cuts?"
+# Data and code for "How does a Move to a Flat Tax Affect Household Filers? The Case of Kansas"
 This repository contains the data and code for the analyses in the *Research in Focus* article by [Richard W. Evans](https://sites.google.com/site/rickecon) (@rickecon) and Patrick Neyland (@patrickneyland) entitled "How does a Move to a Flat Tax Affect Household Filers? The Case of Kansas".
 
 ## Files and directories in the repository
