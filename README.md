@@ -1,6 +1,9 @@
 # Data and code for "How does a Move to a Flat Tax Affect Household Filers? The Case of Kansas"
 This repository contains the data and code for the analyses in the *Research in Focus* article by [Richard W. Evans](https://sites.google.com/site/rickecon) ([@rickecon](https://github.com/rickecon)) and Patrick Neyland ([@taxpat](https://github.com/taxpat)) entitled "How does a Move to a Flat Tax Affect Household Filers? The Case of Kansas".
 
+## How to run the code from these analyses in the cloud in your browser
+We have created a [Google Colab notebook](https://colab.research.google.com/drive/1phIZ1oJNs-IjRv7Av7uAHIX3T6P6XVQX?usp=sharing) with code almost exactly the same as th code in the Jupyter Notebook [`KS_FlatTax.ipynb`](KS_FlatTax.ipynb) decribed in the next section. The [Google Colab notebook](https://colab.research.google.com/drive/1phIZ1oJNs-IjRv7Av7uAHIX3T6P6XVQX?usp=sharing) has the advantage of using a distribution of Python and corresponding packages that run in the cloud on remote servers instead of on your local machine. This allows you to use the notebook from any kind of device with a browser. You can execute th code, see the results, and save output to a temporary cloud folder from which you can download anything you want to keep.
+
 ## How to run the Jupyter Notebook on your machine
 This repository contains a Jupyter Notebook [`KS_FlatTax.ipynb`](KS_FlatTax.ipynb) that can be run locally on your own machine to replicate the analyses in the paper. You can also modify this notebook to use for other analyses you might want to experiment with. To run this notebook locally on your machine, do the following steps:
 * Fork and clone (or download) the https://github.com/TheCGO/KS-FlatTax repository
