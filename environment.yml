@@ -8,6 +8,6 @@ dependencies:
 - bokeh >= 3.1.1
 - pip
 - pip:
-  - fiscalsim-us==0.2.1
+  - fiscalsim-us
   - geopandas
   - openpyxl
